@@ -1,0 +1,47 @@
+body{
+    overflow-x: hidden;
+}
+.section{
+    display:flex;
+    justify-content:space-between;
+    padding: 20px;
+}
+h2{
+    color:black;
+    font-size: large;
+
+}
+.btn1{
+background:#ffc200;
+border:2px solid #ffc200;
+border-radius: 10px;
+width:100px;
+transition:0.5s;
+margin-left:600px;
+}
+ 
+.btn2{
+    background:#ffc200;
+    border:2px solid #ffc200;
+    border-radius: 10px;
+    width:100px;
+    transition:0.5s;
+    }
+        .img{
+        width:auto;
+        height:400px;
+}
+h3{
+    color: skyblue;
+    font-style: normal;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+}
+
+
+
+
+
+
